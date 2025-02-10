@@ -1,4 +1,4 @@
-# README: Virtual ID (VID) Modelling with Machine Learning and Dates
+# Virtual ID (VID) Modelling with Machine Learning and Dates Sample
 
 This repository provides a simple implementation of **Virtual ID (VID)** modelling in TypeScript. The code demonstrates how to map user identifiers from different platforms (e.g., Google, Facebook) to a common **Virtual ID** using machine learning-inspired techniques and date-based logic. This approach is essential for projects requiring **cross-media measurement** and **deduplication**.
 
